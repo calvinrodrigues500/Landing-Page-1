@@ -2,4 +2,4 @@
 Landing page design using HTML &amp; CSS
 
 
-Live site : landing-page-1-html-css.netlify.app
+Live site : https://landing-page-1-html-css.netlify.app/
